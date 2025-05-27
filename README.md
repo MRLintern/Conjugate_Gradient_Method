@@ -3,7 +3,7 @@
 ### Introduction
 * The ___Conjugate Gradient Method___ is an __Iterative Algorithm__ for solving systems of __Linear Equations__ of the form __Ax = b__.
 * __A__: is a __Symmetric Positive-Definite Matrix__,
-* __x__: is the Vector of unknowns to found,
+* __x__: is the Vector of unknowns to be found,
 * __b__: is the right-hand side Vector of data/observations.
 * The __Conjugate Gradient Method__ is particularly efficient for __Large, Sparse Systems__ arising in __Scientific Computing__, such as in the __Finite Element Method__ & __Finite Differences Method__.
 
