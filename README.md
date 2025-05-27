@@ -7,7 +7,7 @@
 * __b__: is the right-hand side Vector of data/observations.
 * The __Conjugate Gradient Method__ is particularly efficient for __Large, Sparse Systems__ arising in __Scientific Computing__, such as in the __Finite Element Method__ & __Finite Differences Method__.
 
-### Theory
+### Theory: How does it Work?
 * TODO.
 
 ### Requirements
