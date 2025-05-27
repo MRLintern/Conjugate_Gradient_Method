@@ -19,4 +19,6 @@
 ### Getting and Running the Software
 * `$ git clone https://github.com/MRLintern/Conjugate_Gradient_Method.git`
 * `$ cd Conjugate_Gradient_Method`
-* TODO.
+* `$ mkdir build -p && cd build`
+* `$ cmake ..`
+* `$ cmake --build .`
